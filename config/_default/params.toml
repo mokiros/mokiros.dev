@@ -6,7 +6,7 @@ favicon = "/favicon.png"
 
 [footer]
 since = 2023
-customText = "Mokiros's Website"
+customText = ""
 
 [dateFormat]
 published = "Jan 02, 2006"
