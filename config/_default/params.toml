@@ -17,8 +17,8 @@ subtitle = "My ramblings about programming that no one will read. I made this we
 
 [sidebar.avatar]
 enabled = true
-local = true
-src = "img/avatar.jpg"
+local = false
+src = "https://www.gravatar.com/avatar/b38df420e85fb3f2ce926489f91f7d03e8c938b30ba6e453610542417115ed2a?s=512&d=404"
 
 [article]
 math = false
